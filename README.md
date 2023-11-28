@@ -25,4 +25,4 @@ The project consist of:
   
   **Sentiment Analysis** to evaluate newspaper sentiment towards this technologies
   
-  **Zero-Shot Classification** to categorize tweets into predefined or dynamically identified topics
+  **Zero-Shot Classification** to categorize tweets into predefined or dynamically identified topics
