@@ -12,10 +12,10 @@ The dataset consists of tweets published by various newspapers that focus on the
 # Tasks
 The project consist of:
 - Data Pre-processing 
-        - Translation from European languages to English
-        - Extract hashtags from the tweet texts
+  Translation from European languages to English
+  Extract hashtags from the tweet texts
 - Data Exploration 
 - Data Analysis with Transformer Pipelines
-        - **Name Entity Recognition (NER)** to identify key entities in the tweets
-        - **Sentiment Analysis** to evaluate newspaper sentiment towards this technologies
-        - **Zero-Shot Classification** to categorize tweets into predefined or dynamically identified topics
+  **Name Entity Recognition (NER)** to identify key entities in the tweets
+  **Sentiment Analysis** to evaluate newspaper sentiment towards this technologies
+  **Zero-Shot Classification** to categorize tweets into predefined or dynamically identified topics
