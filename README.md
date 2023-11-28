@@ -11,14 +11,14 @@ The dataset consists of tweets published by various newspapers that focus on the
 
 # Tasks
 The project consist of:
-- Data Pre-processing 
-
+- Data Pre-processing
+  including
   Translation from European languages to English
 
   Extract hashtags from the tweet texts
   
 - Data Exploration 
-- Data Analysis with Transformer Pipelines
+- Data Analysis with Transformer Pipelines such as
   
   **Name Entity Recognition (NER)** to identify key entities in the tweets
   
