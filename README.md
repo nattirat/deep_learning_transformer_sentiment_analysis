@@ -13,6 +13,7 @@ The dataset consists of tweets published by various newspapers that focus on the
 The project consist of:
 - Data Pre-processing
   including
+
   Translation from European languages to English
 
   Extract hashtags from the tweet texts
